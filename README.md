@@ -1,2 +1,0 @@
-# MoviesApp
-ASP.NET progect
